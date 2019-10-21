@@ -40,4 +40,3 @@ class TextAnalyzer
     end
 
     biggest
-end
