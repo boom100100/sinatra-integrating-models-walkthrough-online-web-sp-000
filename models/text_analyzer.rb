@@ -38,6 +38,7 @@ class TextAnalyzer
         biggest[key] = value
       end
     end
-  end
+
     biggest
+  end
 end
